@@ -18,7 +18,20 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```python
+NAME  : SANJAY M
+Reg No: 212223230187
 
+a=input()
+b=input()
+a,b=b,a
+print("Swapped values are:",a,b)
+```
+
+## OUTPUT:
+![Screenshot 2024-03-06 183125](https://github.com/sanjayofficial2005/Swapping-two-values/assets/148048602/23dc3ba0-753e-411e-970b-4f3a5f9df9e6)
+
+![Screenshot 2024-03-06 183141](https://github.com/sanjayofficial2005/Swapping-two-values/assets/148048602/28aef373-ebd5-47b9-bf4c-7aca638a388f)
 
 
 ## RESULT:
